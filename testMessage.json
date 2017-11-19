@@ -1,0 +1,9 @@
+{
+  "message":{
+    "topic" : "touchNotification",
+    "notification" : {
+      "body" : "How are you?",
+      "title" : "FCM Message"
+      }
+   }
+}
